@@ -1,1 +1,1 @@
-docker container run --name 01container -ti alpine
+docker container run --name 01container -ti alpine:3.12
